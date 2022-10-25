@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "/bin/index.js",
+  "type": "commonjs",
   "scripts": {
     "lint": "standard"
   },
@@ -12,6 +13,9 @@
   },
   "author": "",
   "license": "ISC",
+  "bin": {
+    "goodecoder": "./bin/index.js"
+  },
   "bugs": {
     "url": "https://github.com/goodecoder/npm-resume/issues"
   },
