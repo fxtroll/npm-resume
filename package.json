@@ -1,0 +1,24 @@
+{
+  "name": "npx-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/bin/index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodecoder/npm-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodecoder/npm-resume/issues"
+  },
+  "homepage": "https://github.com/goodecoder/npm-resume#readme",
+  "devDependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.1.2",
+    "standard": "^17.0.0"
+  }
+}
